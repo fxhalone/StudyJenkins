@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4731" it="0" lt="4730" ct="4560" ts="1605864829348" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="412" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="108" ct="57" ts="1605864834086" s="true" lb="http://www.btestsky.cn/cpsys" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="38341" sby="749" ng="1" na="1">
+  <httpSample t="108" it="0" lt="108" ct="57" ts="1605864834086" s="true" lb="http://www.btestsky.cn/cpsys-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="521" sby="374" ng="1" na="1">
+    <java.net.URL>http://www.btestsky.cn/cpsys</java.net.URL>
+  </httpSample>
+  <httpSample t="145" it="0" lt="59" ct="0" ts="1605864834195" s="true" lb="http://www.btestsky.cn/cpsys-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37820" sby="375" ng="1" na="1">
+    <java.net.URL>http://www.btestsky.cn/cpsys/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.btestsky.cn/cpsys/</java.net.URL>
+</httpSample>
+<httpSample t="147" it="0" lt="146" ct="114" ts="1605864834343" s="true" lb="https://360fenxi.mediav.com/mediav0923.html" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2053" sby="388" ng="1" na="1">
+  <java.net.URL>https://360fenxi.mediav.com/mediav0923.html</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="53" ct="29" ts="1605864834492" s="true" lb="http://s.union.360.cn/proxy.html" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1045" sby="378" ng="1" na="1">
+  <java.net.URL>http://s.union.360.cn/proxy.html</java.net.URL>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="109" ts="1605864834550" s="true" lb="https://ckmap.mediav.com/b?type=10" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="467" sby="379" ng="1" na="1">
+  <java.net.URL>https://ckmap.mediav.com/b?type=10</java.net.URL>
+</httpSample>
+<httpSample t="130" it="0" lt="129" ct="101" ts="1605864834698" s="true" lb="https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&amp;thirdparty_cookie_id=i7c4f7ibr8vrcm26jhrc4f2o1s" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="719" sby="408" ng="1" na="1">
+  <java.net.URL>https://3m.mediav.com/ckmap.htm</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="171" ct="80" ts="1605864834832" s="true" lb="https://dkt.zoosnet.net/LR/minichat_PC.aspx?id=DKT44956635&amp;cid=07d08eb546ac480a93534aa57d83c3d3&amp;lng=cn&amp;sid=07d08eb546ac480a93534aa57d83c3d3&amp;p=http%3A//www.btestsky.cn/cpsys/&amp;r=http%3A//www.btestsky.cn/about/&amp;msg=" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="33505" sby="568" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/minichat_PC.aspx?id=DKT44956635&amp;cid=07d08eb546ac480a93534aa57d83c3d3&amp;lng=cn&amp;sid=07d08eb546ac480a93534aa57d83c3d3&amp;p=http%3A%2F%2Fwww.btestsky.cn%2Fcpsys%2F&amp;r=http%3A%2F%2Fwww.btestsky.cn%2Fabout%2F</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1605864835012" s="false" lb="https://dkt.zoosnet.net/LR/CdStart1.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="528" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdStart1.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="41" ct="0" ts="1605864835056" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="451" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="29" ts="1605864835099" s="true" lb="https://swttobaiduservice.zoosnet.net/api/swtstartchatnew.ashx" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="814" sby="693" ng="1" na="1">
+  <java.net.URL>https://swttobaiduservice.zoosnet.net/api/swtstartchatnew.ashx</java.net.URL>
+</httpSample>
+<httpSample t="232" it="0" lt="52" ct="0" ts="1605864835140" s="true" lb="http://www.btestsky.cn/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="50831" sby="748" ng="1" na="1">
+  <httpSample t="52" it="0" lt="52" ct="0" ts="1605864835140" s="true" lb="http://www.btestsky.cn/-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="209" sby="369" ng="1" na="1">
+    <java.net.URL>http://www.btestsky.cn/</java.net.URL>
+  </httpSample>
+  <httpSample t="179" it="0" lt="53" ct="0" ts="1605864835193" s="true" lb="http://www.btestsky.cn/-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="50622" sby="379" ng="1" na="1">
+    <java.net.URL>http://www.btestsky.cn/index.html</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.btestsky.cn/index.html</java.net.URL>
+</httpSample>
+<httpSample t="132" it="0" lt="0" ct="101" ts="1605864835373" s="true" lb="https://360fenxi.mediav.com/mediav0923.html" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="257" sby="501" ng="1" na="1">
+  <java.net.URL>https://360fenxi.mediav.com/mediav0923.html</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="0" ct="28" ts="1605864835506" s="true" lb="http://s.union.360.cn/proxy.html" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="257" sby="459" ng="1" na="1">
+  <java.net.URL>http://s.union.360.cn/proxy.html</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1605864835560" s="true" lb="https://ckmap.mediav.com/b?type=10" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="358" sby="411" ng="1" na="1">
+  <java.net.URL>https://ckmap.mediav.com/b?type=10</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="59" ct="0" ts="1605864835596" s="true" lb="https://dkt.zoosnet.net/LR/minichat_PC.aspx?id=DKT44956635&amp;cid=07d08eb546ac480a93534aa57d83c3d3&amp;lng=cn&amp;sid=07d08eb546ac480a93534aa57d83c3d3&amp;p=http%3A//www.btestsky.cn/index.html&amp;r=http%3A//www.btestsky.cn/cpsys/&amp;msg=" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="33509" sby="595" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/minichat_PC.aspx?id=DKT44956635&amp;cid=07d08eb546ac480a93534aa57d83c3d3&amp;lng=cn&amp;sid=07d08eb546ac480a93534aa57d83c3d3&amp;p=http%3A%2F%2Fwww.btestsky.cn%2Findex.html&amp;r=http%3A%2F%2Fwww.btestsky.cn%2Fcpsys%2F</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1605864835661" s="false" lb="https://dkt.zoosnet.net/LR/CdStart1.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="532" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdStart1.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1605864835704" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="451" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1605864835746" s="true" lb="https://swttobaiduservice.zoosnet.net/api/swtstartchatnew.ashx" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="743" sby="739" ng="1" na="1">
+  <java.net.URL>https://swttobaiduservice.zoosnet.net/api/swtstartchatnew.ashx</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1605864835758" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="437" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="46" it="0" lt="46" ct="0" ts="1605864835801" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="456" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="52" ct="0" ts="1605864835848" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="437" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="44" it="0" lt="43" ct="0" ts="1605864835901" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="437" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1605864835946" s="false" lb="https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="1395" sby="437" ng="1" na="1">
+  <java.net.URL>https://dkt.zoosnet.net/LR/CdCheck.aspx?sid1=07d08eb546ac480a93534aa57d83c3d3</java.net.URL>
+</httpSample>
+
+</testResults>
